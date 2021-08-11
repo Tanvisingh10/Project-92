@@ -1,0 +1,27 @@
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: skyblue;
+}
+
+#output{
+	background: whitesmoke;
+	border-radius: 10px;
+	border-top: 10px solid turquoise;
+	padding: 10px;
+	float: none;
+	text-align: left;
+}
+#player_question{
+	color: mediumspringgreen;
+}
+#player_answer{
+	color: mediumspringgreen;
+}
+#player1_score{
+	color: orangered;
+}
+#player2_score{
+	color: orangered;
+}
